@@ -1,0 +1,8 @@
+.formAuth {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+.formAuth input {
+    background-color: rgb(243 243 243);
+}

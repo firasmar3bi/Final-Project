@@ -1,0 +1,14 @@
+.header {
+    height: 40vh;
+    width: 100%;
+    background-image: url('../../../public/assets/img/bg_6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header h2 {
+Font-size: 35px;
+Font-weight: 800;
+Line-height: 50px;
+font-family: 'Open Sans', sans-serif;
+
+}
